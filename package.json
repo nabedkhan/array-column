@@ -1,0 +1,17 @@
+{
+  "name": "array-column",
+  "version": "1.0.0",
+  "description": "array column returns the values from a single object property from an array of objects",
+  "main": "index.js",
+  "homepage": "https://github.com/nabedkhan/array-column",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nabedkhan/array-column.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nabed Khan (https://github.com/nabedkhan)",
+  "license": "ISC"
+}
