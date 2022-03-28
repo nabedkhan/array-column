@@ -13,7 +13,7 @@ npm i array-column
 ## Usage
 
 ```js
-const array_sum = require("array-column");
+const arrayColumn = require("array-column");
 
 const persons = [
   { name: "Nabed", age: 25 },
@@ -21,7 +21,7 @@ const persons = [
   { name: "Akib", age: 23 },
 ];
 
-array_column(persons, "name");
+arrayColumn(persons, "name"); // => [ 'Nabed', 'Shuvo', 'Akib' ]
 ```
 
 ## Author

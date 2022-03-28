@@ -12,15 +12,3 @@ function array_column(arr, fieldName) {
     return result;
   }
 }
-
-const result = array_column(
-  [
-    { name: "Nabed", age: 25 },
-    { name: "Shuvo", age: 24 },
-    { name: "Akib", age: 23 },
-    { age: 23, profession: "designer" },
-  ],
-  "name"
-);
-
-console.log(result);

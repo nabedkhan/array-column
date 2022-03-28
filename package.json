@@ -11,7 +11,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "array column",
+    "array-column",
+    "js-array-column",
+    "array",
+    "column"
+  ],
   "author": "Nabed Khan (https://github.com/nabedkhan)",
   "license": "ISC"
 }
